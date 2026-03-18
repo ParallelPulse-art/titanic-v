@@ -16,7 +16,7 @@ warnings.filterwarnings("ignore")
 # PAGE CONFIG
 # ─────────────────────────────────────────
 st.set_page_config(
-    page_title="Titanic ML Dashboard",
+    page_title="Titanic ",
     page_icon="🚢",
     layout="wide",
     initial_sidebar_state="expanded"
